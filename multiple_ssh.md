@@ -1,4 +1,4 @@
-# Create Multiple SSH keys 
+# Create Multiple SSH keys for Multipe Git accounts 
 
 ## Create 2 ssh keys for 2 git accounts. 
 $ ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C "abc@gmail.com"
